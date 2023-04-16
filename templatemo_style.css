@@ -14,7 +14,7 @@ body {
 	background-position: top;
 	background-repeat: repeat-x
 }
-main {
+Body {
     background: #d9d7d5;
     display: flex;
     flex-wrap: wrap;
