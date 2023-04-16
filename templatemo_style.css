@@ -185,5 +185,8 @@ a.button:hover { text-decoration: none; color: #FFFFFF; }
 	color: #fff;
 }
 @media (min-width:900px){
-
+.templatemo_wrapper{
+Display:flex;
+Flex-wrap:wrap;
+}
 }
